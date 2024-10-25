@@ -1,4 +1,5 @@
 # llm-attack
+![](./assets/prompt_attack_other.png)
 
 | Prompt越狱 | Prompt注入 | 自动化测试 | 智能体攻击 |
 | ---- | ---- | ---- | ---- |
